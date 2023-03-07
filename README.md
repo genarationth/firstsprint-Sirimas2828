@@ -18,5 +18,5 @@ Website Figma -- https://www.figma.com/
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-![Figma}(https://www.figma.com/file/CYjjIINYNq4OzpfLUP0idw/Untitled?node-id=4%3A19&t=LOh3WenQNPDWJz3X-1)
+https://www.figma.com/file/CYjjIINYNq4OzpfLUP0idw/Untitled?node-id=4%3A19&t=LOh3WenQNPDWJz3X-1
 
